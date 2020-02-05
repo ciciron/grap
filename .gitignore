@@ -1,0 +1,17 @@
+CMakeFiles/
+CMakeCache.txt
+CMakeLists.txt.user
+Makefile
+build/
+cmake_install.cmake
+**/cmake_uninstall.cmake
+
+*.o
+**/*.vim*
+**/*.swp
+**/*.swo
+**/tags
+**/*.deb
+**/*.rpm
+.clang-format
+*.autosave
